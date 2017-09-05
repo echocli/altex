@@ -17,6 +17,12 @@ Users continue on to signup(.php) and become members, where they then can login(
 Members and non-members can shop for 3 AltEx products (singleastro.html, singlefamoussing.html, and singlewater.html).
 On those pages they click forward to "purchase" these products with 2 payment options: PayPal and Bitpay.
 
+-- What is not done -- 
+
+Member-only page displaying data from "purchases."
+Password hashes.
+Bitpay on all shop pages.
+
 -- Authors -- 
 - Website template design was by FreeHTML5.co
 - Layout and image modifications were done by @echocli
