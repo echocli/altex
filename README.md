@@ -1,12 +1,15 @@
 README
 
--- AltEx Project -- 
+-- AltEx Project --
+
 E-Commerce website for course CS4753 (Electronic Commerce Technologies).
 
 -- About AltEx --
+
 AltEx (short for AlternativeExperience) is a e-commerce business that sells virtual reality experiences.
 
 -- How to navigate -- 
+
 Index.html is our home page, which inclues a header linking to the other pages.
 From there, users can learn About(.html) the company where we mention our 
 "Company History, Mission and Vision, and a Founder's introduction."
